@@ -1,8 +1,8 @@
 # Summary
 
-[Chapter 1. Getting Started](/ch01/README.md)
-
-* Part I: The Basics
+* [Introduction](README.md)
+* [Getting Started](ch01/README.md)
+* [Part I: The Basics](part-i-the-basics.md)
   * [Chapter 2. Variables and Basic Types](ch02/README.md)
   * [Chapter 3. Strings, Vectors, and Arrays](ch03/README.md)
   * [Chapter 4. Expressions](ch04/README.md)
@@ -18,12 +18,10 @@
 * Part III: Tools for Class Authors
   * [Chapter 13. Copy Control](ch13/README.md)
   * [Chapter 14. Overloaded Operations and Conversions](ch14/README.md)
-  * [Chapter 15. Object-Oriented Programming](ch15)
-  * [Chapter 16. Templates and Generic Programming](ch16)
+  * [Chapter 15. Object-Oriented Programming](ch15/README.md)
+  * [Chapter 16. Templates and Generic Programming](ch16/README.md)
 * Part IV:  Advanced Topics
-  * [Chapter 17. Specialized Library Facilities](ch17)
-  * [Chapter 18. Tools for Large Programs](ch18)
-  * Chapter 19. Specialized Tools and Techniques
-
-
+  * [Chapter 17. Specialized Library Facilities](ch17/README.md)
+  * [Chapter 18. Tools for Large Programs](ch18/README.md)
+  * [Chapter 19. Specialized Tools and Techniques](ch17/chapter-19-specialized-tools-and-techniques.md)
 
