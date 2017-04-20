@@ -1,23 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* Part I: The Basics
-* [Chapter 1. Getting Started](ch01/README.md)
-  * [Chapter 2. Variables and Basic Types](ch02/README.md)
-  * [Chapter 3. Strings, Vectors, and Arrays](ch03/README.md)
-  * [Chapter 4. Expressions](ch04/README.md)
-  * [Chapter 5. Statements](ch05/README.md)
-  * [Chapter 6. Functions](ch06/README.md)
-  * [Chapter 7. Classes](ch07/README.md)
-
-* Part II: The C++ Library
-
-* Part III: Tools for Class Authors
-
-* Part IV: Advanced Topics
 
 * [Chapter 1. Getting Started](ch01/README.md)
-
 * [Chapter 2. Variables and Basic Types](ch02/README.md)
 * [Chapter 3. Strings, Vectors, and Arrays](ch03/README.md)
 * [Chapter 4. Expressions](ch04/README.md)
